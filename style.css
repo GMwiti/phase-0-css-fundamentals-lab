@@ -3,3 +3,41 @@ body {
   height: 100%;
   margin: 0;
 }
+h1{
+  width: 400px;
+  margin: auto;
+  padding: 20px;
+}
+header{
+  margin: 0 auto;
+  width:800px;
+}
+#featured-property{
+  margin: auto;
+  width: 900px;
+  
+}
+.atagedit{
+  padding:10px;
+  background-color: grey;
+  margin: 20px
+}
+figcaption{
+  font-size: 15px;
+  width: 500px;
+  margin: auto;
+}
+.centertext{
+  width: 800px;
+  margin: auto;
+  text-align: center;
+}
+
+.floats{
+  float:left;
+  padding: 25px;
+  width:22%;
+  margin: auto;
+  background-color: red
+
+}
